@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! - Author:<strong> Nithin V. Gopal </strong> </h1>
-<h3 align="center">A developer in this crazy world!</h3>
+<h3 align="center">An engineer in this crazy world!</h3>
 
 ## About Me
 
