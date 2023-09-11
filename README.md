@@ -17,7 +17,7 @@
 
 |Overview|Statistics|
 |:-:|:-:|
-|<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvg14&theme=github_dark" width="400" height="200" alt="nvg14" align = "center"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nvg14&show_icons=true&locale=en&count_private=true" width="400" height="200" alt="nvg14" /></p>|![Metrics](/github-metrics.svg)|
+|<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvg14&theme=github_dark" width="400" height="200" alt="nvg14" align = "center"/> </p>|![Metrics](/github-metrics.svg)|
 
 
 <br/>
