@@ -3,13 +3,13 @@
 
 ## About Me
 
-- 🔭 I’m currently a **Staff Software Engineer** with **Amagi Media Labs.**
+- 🔭 I’m currently a **Lead Engineer - Product Development** with **Amagi Media Labs.**
 
-- 🌱 I’m also currently pursuing **MS in CS with Georgia Tech.** with **Machine Learning** as specialization.
+- 🌱 I’m also currently pursuing **MS in CS with Georgia Tech.** with **Interactive Intelligence** as specialization.
 
-- 💬 Ask me about **Programming Languages, Cloud, Design, Architecture, AI or ML**
+- 💬 Ask me about **Programming Languages, Cloud, Design, Architecture, AI, ML, DL**
 
-- 📫 Reach me at **nithinvg1495@amagi.com**
+- 📫 Reach out to me at **nithinvg1495@amagi.com**
 
 <br/>
 <hr/>
