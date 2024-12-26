@@ -1,4 +1,9 @@
 <h1 align="center">Hello World! - Author:<strong> Nithin V. Gopal </strong> </h1>
+<div align="center">
+  <a href="https://github.com/nkapila6">
+    <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
+  </a>
+</div>
 <h3 align="center">An engineer in this crazy world!</h3>
 
 ## About Me
