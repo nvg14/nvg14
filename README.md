@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently a **Lead Engineer - Product Development** with **Amagi Media Labs.**
 
-- 🌱 I’m also currently pursuing **MS in CS with Georgia Tech.** with **Interactive Intelligence** as specialization.
+- 🌱 I’m also a graduate of **MS in CS from Georgia Tech.** with **Interactive Intelligence** as specialization.
 
 - 💬 Ask me about **Programming Languages, Cloud, Design, Architecture, AI, ML, DL**
 
